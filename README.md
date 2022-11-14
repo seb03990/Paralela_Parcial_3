@@ -19,3 +19,9 @@ Cada ejercicio cuenta con los elementos necesarios para ser ejecutados desde cua
 * Si se desea realizar la experimentacion con otro conjunto de datos experimental, realice los cambios necesarios en el archivo prueba.py
 * En el repositorio tambien encontrara otras carpetas tituladas 'solucion_ejercicio_n', estas carpetas contienen los datos resultantes de la  primera experimentacion, fueron separadas de su respectivo problema para que no fueran descargadas con los demas archivos.
 .  
+
+***Descripcion de cada ejercicio***
+
+* Ejercicio 1: Este programa evalua la sumatoria desde a=0 hasta un numero b con f(a) = 1/(x+a*y)
+* Ejercicio 2: Genera una palabra con letras aleatorias y su cuenta cuantas veces aparece determinada letra en la palabra
+* Ejercicio 3: Simula el movimiento de un cuerpo en caida libre con movimiento parabolico en un lapso de tiempo
