@@ -23,5 +23,5 @@ Cada ejercicio cuenta con los elementos necesarios para ser ejecutados desde cua
 ***Descripcion de cada ejercicio***
 
 * Ejercicio 1: Este programa evalua la sumatoria desde a=0 hasta un numero b con f(a) = 1/(x+a*y)
-* Ejercicio 2: Genera una palabra con letras aleatorias y su cuenta cuantas veces aparece determinada letra en la palabra
+* Ejercicio 2: Genera una palabra con letras aleatorias y cuenta cuantas veces aparece determinada letra en la palabra
 * Ejercicio 3: Simula el movimiento de un cuerpo en caida libre con movimiento parabolico en un lapso de tiempo
