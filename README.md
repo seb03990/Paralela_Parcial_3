@@ -25,3 +25,8 @@ Cada ejercicio cuenta con los elementos necesarios para ser ejecutados desde cua
 * Ejercicio 1: Este programa evalua la sumatoria desde a=0 hasta un numero b con f(a) = 1/(x+a*y)
 * Ejercicio 2: Genera una palabra con letras aleatorias y cuenta cuantas veces aparece determinada letra en la palabra
 * Ejercicio 3: Simula el movimiento de un cuerpo en caida libre con movimiento parabolico en un lapso de tiempo
+
+
+***Resultados de la actividad***
+
+A continuacion, link del analisis de los ejercicios en colab: https://colab.research.google.com/drive/1uVZ5Qu-qWf3ejejmGnunKoElAdSAXAkb?usp=sharing
